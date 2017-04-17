@@ -1,0 +1,8 @@
+d:\Documents\GitHub\Minimax\bin\Debug\netcoreapp1.1\Minimax.deps.json
+d:\Documents\GitHub\Minimax\bin\Debug\netcoreapp1.1\Minimax.runtimeconfig.json
+d:\Documents\GitHub\Minimax\bin\Debug\netcoreapp1.1\Minimax.runtimeconfig.dev.json
+d:\Documents\GitHub\Minimax\bin\Debug\netcoreapp1.1\Minimax.dll
+d:\Documents\GitHub\Minimax\bin\Debug\netcoreapp1.1\Minimax.pdb
+d:\Documents\GitHub\Minimax\obj\Debug\netcoreapp1.1\Minimax.AssemblyInfo.cs
+d:\Documents\GitHub\Minimax\obj\Debug\netcoreapp1.1\Minimax.dll
+d:\Documents\GitHub\Minimax\obj\Debug\netcoreapp1.1\Minimax.pdb
